@@ -1,0 +1,12 @@
+{
+  "export_job_id": "f97b19f3-024e-4617-9328-f554f53cb138",
+  "id_short": 475567,
+  "published_at": "2026-04-12T19:19:25Z",
+  "repo_name": "top-10-active-restaurant-review-whales-in-washington-arlington-alexandria-metro-ar-sample-475567",
+  "sample_asset_name": "beamstation_475567_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/475567/beamstation_475567_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
+  "sample_records": 6,
+  "sample_sha256": "f946d71da6cfd403a073deb10f90f4efa9e08c51519bdf4d7db8a5c912bf4251",
+  "sample_size_bytes": 38702,
+  "total_records": 62
+}
