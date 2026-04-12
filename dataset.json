@@ -1,0 +1,22 @@
+{
+  "base_price": 1495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 10% of their local market for proven foot traffic and review volume within the last 30 days and a market scope of 10km. \n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 10% Active Restaurant Review Whales in Washington-Arlington-Alexandria Metro Area, DC-VA-MD-WV, US",
+  "export_job_id": "f97b19f3-024e-4617-9328-f554f53cb138",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 475567,
+  "location_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+  "location_type": "metro",
+  "repo_name": "top-10-active-restaurant-review-whales-in-washington-arlington-alexandria-metro-ar-sample-475567",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/475567/beamstation_475567_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
+  "sample_pct": 9.68,
+  "sample_records": 6,
+  "sample_sha256": "f946d71da6cfd403a073deb10f90f4efa9e08c51519bdf4d7db8a5c912bf4251",
+  "sample_size_bytes": 38702,
+  "total_records": 62,
+  "updated_at": "2026-04-07T19:17:48.867150+00:00"
+}
