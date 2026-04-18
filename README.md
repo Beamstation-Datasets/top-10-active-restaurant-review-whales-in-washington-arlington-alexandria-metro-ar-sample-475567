@@ -1,6 +1,6 @@
 # Top 10% Active Restaurant Review Whales in Washington-Arlington-Alexandria Metro Area, DC-VA-MD-WV, US
 
-> Free BeamStation sample export with 6 rows and masked direct-contact fields.
+> Free BeamStation sample export with 8 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `475567` |
 | Location | Washington-Arlington-Alexandria, DC-VA-MD-WV |
 | Category | Restaurants |
-| Full dataset size | 62 records |
-| Free sample size | 6 records (9.68%) |
-| Last export | 2026-04-07T19:17:48.867150+00:00 |
+| Full dataset size | 85 records |
+| Free sample size | 8 records (9.41%) |
+| Last export | 2026-04-15T00:25:37.510242+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-10-active-restaurant-review-whales-in-washington-arlington-alexandria-metro-ar-sample-475567/releases/download/sample-latest/beamstation_475567_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
